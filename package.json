@@ -4,7 +4,8 @@
   "description": "网站",
   "main": "index.js",
   "scripts": {
-    "server": "http-server"
+    "server": "http-server",
+    "server2": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/xm94630/myWeb#readme",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "lite-server": "^2.4.0"
   }
 }
