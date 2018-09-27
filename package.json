@@ -1,0 +1,22 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "网站",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xm94630/myWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xm94630/myWeb/issues"
+  },
+  "homepage": "https://github.com/xm94630/myWeb#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
