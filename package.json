@@ -4,8 +4,7 @@
   "description": "网站",
   "main": "index.js",
   "scripts": {
-    "server": "http-server",
-    "server2": "lite-server"
+    "server": "http-server ./xm"
   },
   "repository": {
     "type": "git",
