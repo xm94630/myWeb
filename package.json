@@ -4,7 +4,7 @@
   "description": "网站",
   "main": "index.js",
   "scripts": {
-    "server": "sudo http-server -p 80"
+    "server": "http-server -p 8080"
   },
   "repository": {
     "type": "git",
