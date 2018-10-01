@@ -64,7 +64,6 @@
   .tag{
     height:16px;
     line-height: 16px;
-    display: inline-block;
     vertical-align: middle;
     font-size: 12px;
     display: inline-block;
@@ -95,6 +94,9 @@
     position: absolute;
     bottom:0px;
     right: 0px;
+  }
+  .noPlay{
+    display: none;
   }
 
   .footBox{
@@ -168,10 +170,8 @@
   .tag{
     height:16px;
     line-height: 16px;
-    display: inline-block;
     vertical-align: middle;
     font-size: 12px;
-    display: inline-block;
     color:#fff;
     padding: 0px 5px;
     position: relative;
@@ -191,6 +191,20 @@
     line-height: 50px;
     width: 200px;
     background: coral;
+    color:#fff;
+    font-size: 20px;
+    text-align: center;
+    margin:0 auto;
+    margin-top:20px;
+  }
+  .play.hideInH5{
+    display: none;
+  }
+  .noPlay{
+    height:50px;
+    line-height: 50px;
+    width: 200px;
+    background: #ccc;
     color:#fff;
     font-size: 20px;
     text-align: center;
