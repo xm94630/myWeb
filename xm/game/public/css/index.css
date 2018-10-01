@@ -116,7 +116,7 @@
   }
 
   body{
-    background: #f3f3f3;
+    background: #333;
   }
 
   .topBox{
@@ -138,14 +138,17 @@
   .titleBar{
     font-size: 20px;
     color: coral;
-    margin-left: 20px;
+    margin-left: 5%;
   }
 
   .gameBox{
-    width:100%;
+    width:90%;
+    margin:0 auto;
+    margin-bottom: 20px;
     background:#fff;
     padding:20px;
     box-sizing: border-box;
+    border-top: solid 4px coral;
   }
   .gameBoxL{
     width:100%;
@@ -196,9 +199,9 @@
   }
 
   .footBox{
-    background: #ccc;
+    color:#888;
+    background: #555;
     margin-top: 100px;
-    border-top: solid 4px coral;
     font-size: 16px;
     text-align: center;
     padding: 20px;
