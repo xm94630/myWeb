@@ -109,16 +109,6 @@ body{
 
 
 /* 本页个性化css */
-object{
-  border:solid 10px #000;
-  width:550px;
-  margin: 0 auto;
-}
-#flashContent{
-  position: relative;
-  width: 550px;
-  margin: 0 auto;
-}
 .flashBox{
   width: 1000px;
   margin: 0 auto;
