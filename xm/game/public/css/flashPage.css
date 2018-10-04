@@ -17,6 +17,15 @@ body{
   text-align: center;
   font-size:18px;
 }
+.topBoxCon{
+  width:1000px;
+  height: 60px;
+  position: relative;
+  margin: 0 auto;
+}
+.topBoxCon a{
+  color:#fff;
+}
 .logo{
   height: 60px;
 }
@@ -122,3 +131,8 @@ body{
   border-radius: 35px;
 }
 
+.home{
+  position: absolute;
+  left: 5px;
+  top:0px;
+}
