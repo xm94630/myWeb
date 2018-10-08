@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+### 说明
 
-You can use the [editor on GitHub](https://github.com/xm94630/myWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+github 上的是项目源，每次修改都以此为基础。
+在码云上维护的是本项目的克隆版本。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+xm文件夹：网站的根目录
+docs文件夹：是码云的page页面网站的根目录，本来不用那么麻烦，主要是我自己的服务器访问速度很慢，这里就把flash部分静态资源，放到码云上了。（最初是放在github，不想暴露自己的github，就用码云代替）
 
-### Markdown
+至于为什么不在自己的服务器上拉取github代码的原因是：速度比码云慢十倍左右...
+以后要是把服务器的带宽搞好了，就不用那么麻烦了
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xm94630/myWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 流程
+本文件中修改完毕之后，拷贝一份到码云的git，提交，然后再服务器上拉码云的代码。
