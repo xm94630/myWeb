@@ -84,7 +84,7 @@
             <li>
               <a href="/blog/.">
                 
-                  home
+                  主页
                 
               </a>
             </li>
@@ -92,7 +92,15 @@
             <li>
               <a href="/blog/archives">
                 
-                  archive
+                  归档
+                
+              </a>
+            </li>
+          
+            <li>
+              <a href="http://jiaoda4.xyz">
+                
+                  返回游戏首页
                 
               </a>
             </li>
@@ -162,11 +170,22 @@
     <!-- Comments -->
     <div class="container">
       
-<section id="comment">
-  <!-- <h1 class="title">留言</h1> -->
+    <script src="https://cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src='https://unpkg.com/valine/dist/Valine.min.js'></script>
+    
+    <div style="border-top:solid 1px #eee;margin:50px 0 20px 0"></div>
+    <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'HhGPvmKsmvQWdPw9TGBXmuJY-gzGzoHsz',
+            appKey: 'eX7j5UFx32hvvQHsSqtQGpG8',
+            placeholder: '输入留言'
+        })
+    </script>
 
-  
-</section>
+
+
 
 
     </div>
