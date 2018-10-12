@@ -226,6 +226,7 @@ h4 {
   font-size: 0.875em; }
 blockquote p {
   margin: 0;
+  font-size: 14px;
 }
 strong {
   font-weight: bold;
@@ -300,8 +301,10 @@ Content
 .container {
   max-width: $container-width;
   margin: 0 auto;
-  padding-left: 50px;
-  padding-right: 50px;
+  // padding-left: 50px;
+  // padding-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .inside-wrapper {
   max-width: $inside-wrapper-width;

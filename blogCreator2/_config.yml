@@ -20,7 +20,7 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: ../xm/blog
+public_dir: ../xm/blog2
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -83,4 +83,4 @@ deploy:
 
 #追加
 favicon: http://www.jiaoda4.xyz/game/public/img/xia-32x32.png
-logo: http://www.jiaoda4.xyz/game/public/img/logo3.png
+logo: /blog/images/gameImg/画也.png
