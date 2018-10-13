@@ -1,7 +1,7 @@
 ---
 title: 幸福绘画
 photos: images/gameImg/1/0.jpeg
-tags: [浙小孩,水彩,田园]
+tags: [水彩,田园]
 comments: true
 ---
 

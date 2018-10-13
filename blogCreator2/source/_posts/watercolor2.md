@@ -1,7 +1,7 @@
 ---
 title: 诗雨水镇
 photos: images/gameImg/2/3.jpeg
-tags: [浙小孩,水彩,田园]
+tags: [水彩,雨景]
 comments: true
 ---
 
