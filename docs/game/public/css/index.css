@@ -96,6 +96,9 @@
     bottom:0px;
     right: 0px;
   }
+  .play.offline{
+    background: #ccc
+  }  
   .noPlay{
     display: none;
   }
@@ -214,6 +217,9 @@
     margin:0 auto;
     margin-top:20px;
   }
+  .play.offline{
+    background: #ccc
+  }  
   .play.hideInH5{
     display: none;
   }
