@@ -11,5 +11,7 @@ docs文件夹：是码云的page页面网站的根目录，本来不用那么麻
 云服务器上现使用的是github的资源，如果flash页面没有什么更改的话，就不用去动码云的代码了。
 
 ### pm2使用
-全局安装pm2，命令行中使用：
+1）npm 中安装 pm2
+2）全局安装pm2，命令行中使用：
 pm2 start npm -- start
+3）注意，script中必须是"script",之前是“server”..

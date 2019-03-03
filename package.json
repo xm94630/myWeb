@@ -18,5 +18,8 @@
   "homepage": "https://github.com/xm94630/myWeb#readme",
   "devDependencies": {
     "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "pm2": "^3.3.1"
   }
 }
